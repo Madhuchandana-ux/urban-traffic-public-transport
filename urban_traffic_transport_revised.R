@@ -658,7 +658,14 @@ write.csv(
   "data/MTA_transport_data_features.csv",
   row.names = FALSE
 )
-
+# ==========================================
+# STAGE 3: EXPLORATORY DATA ANALYSIS
+# AND VISUALIZATION
+# ==========================================
+# Analyze transportation trends over time.
+# Compare ridership across transportation modes.
+# Examine weekday and monthly patterns.
+# Visualize actual versus predicted ridership.
 
 # ============================================================
 # STEP 20 — TRANSPORTATION MODE FREQUENCY
