@@ -1520,6 +1520,13 @@ print(
   summary(subway_model)
 )
 
+# ==========================================
+# STAGE 5: MODEL EVALUATION AND RESULTS
+# ==========================================
+# Compare actual and predicted subway ridership.
+# Calculate MAE, RMSE, and MAPE.
+# Calculate R-squared if implemented.
+# Analyze prediction errors and summarize results.
 
 # ============================================================
 # STEP 40 — PREDICT TEST DATA
