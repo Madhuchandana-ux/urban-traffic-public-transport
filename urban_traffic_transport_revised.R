@@ -1481,7 +1481,14 @@ cat(
   "\n"
 )
 
-
+# ==========================================
+# STAGE 4: LINEAR REGRESSION MODEL
+# ==========================================
+# Select features for predicting subway ridership.
+# Split the data chronologically into training
+# and testing datasets.
+# Train the linear regression model using lm().
+# Generate predictions using predict().
 # ============================================================
 # STEP 38 — BUILD LINEAR REGRESSION MODEL
 # ============================================================
