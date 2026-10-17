@@ -239,7 +239,8 @@ cat("============================================\n")
 
 print(summary(traffic_data))
 
-
+# Data Preprocessing:
+# Check and handle missing values before analysis.
 # ============================================================
 # STEP 8 — CHECK MISSING VALUES
 # ============================================================
